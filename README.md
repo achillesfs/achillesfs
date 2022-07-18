@@ -1,6 +1,6 @@
 ### <p align="center">👋 Hello!  I'm Achilles.</p>
 
-<p align="center">Arlington, VA | <a href='https://www.linkedin.com/in/achillesfs/'>Linkedin</a></p> | <a href='https://public.tableau.com/app/profile/achilles.stryker'>Tableau Public</a></p>
+<p align="center">Arlington, VA | <a href='https://www.linkedin.com/in/achillesfs/'>Linkedin</a> | <a href='https://public.tableau.com/app/profile/achilles.stryker'>Tableau Public</a></p>
 
 ---
 - 💼 Currently working as: a senior management consultant in Data & Analytics services on a data migration project at a major global bank
