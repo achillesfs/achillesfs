@@ -1,6 +1,5 @@
-### <p align="left">👋 Hello!  I'm Achilles</p>
+## <p align="left">👋 Hello!  I'm Achilles</p>
 
----
 - 💼 Work - Arlington-based Principal Specialist Consultant remotely staffed on a data migration project at a major global bank
 
 - 🎓 Education - 24-week Data Science Immersive boot camp program ending in August 2022 ([Current](https://generalassemb.ly/))\
@@ -13,8 +12,8 @@
 - ⛱ If I'm offline - you'll either find me on the range working on my long game or out searching for the best sushi restaurant in DC
 
 
----
-### 💡 Technologies
+
+## <p align="left">💡 Technologies</p>
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
@@ -39,8 +38,9 @@
 ![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
 
----
-### 🤝 Let's Connect!
+
+
+## <p align="left">🤝 Let's Connect!</p>
 
 <p align="left">
 <a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/>
