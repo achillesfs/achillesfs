@@ -10,9 +10,8 @@
 - 📫 Contact me - via LinkedIn (see below)
 
 - ⛱ If I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
-
 <br></br>
-## <p align="left">💡 Technologies</p>
+### <p align="left">💡 Technologies</p>
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
@@ -36,9 +35,8 @@
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
 ![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
-
 <br></br>
-## <p align="left">🤝 Let's Connect!</p>
+### <p align="left">🤝 Let's Connect!</p>
 
 <p align="left">
 <a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/></a>
