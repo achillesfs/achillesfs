@@ -9,7 +9,7 @@
 
 - 📫 Contact me - via LinkedIn (see below)
 
-- ⛱ If I'm offline - you'll find me on the range training up my long game or out searching for the best sushi restaurant in DC
+- ⛱ If I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
 
 <br></br>
 ## <p align="left">💡 Technologies</p>
