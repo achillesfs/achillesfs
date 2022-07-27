@@ -30,7 +30,7 @@
 ![Spyder](https://img.shields.io/badge/Spyder_IDE-05122A?style=flat&logo=spyder-ide)&nbsp;
 ![Structured Query Language (SQL)](https://img.shields.io/badge/SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Tableau Desktop](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-![Toad Data Point](https://img.shields.io/badge/TOAD-05122A?style=flat&logo=quest-toad)&nbsp;
+![Toad Data Point](https://img.shields.io/badge/Toad-05122A?style=flat&logo=quest-toad)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
 ![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
