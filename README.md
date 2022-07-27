@@ -1,16 +1,15 @@
-### <p align="center">👋 Hello!  I'm Achilles.</p>
-
-<p align="center">Arlington, VA | <a href='https://www.linkedin.com/in/achillesfs/'>LinkedIn</a> | <a href='https://public.tableau.com/app/profile/achilles.stryker'>Tableau Public</a></p>
+### <p align="left">👋 Hello!  I'm Achilles</p>
 
 ---
-- 💼 Currently working as - a senior management consultant staffed on a data migration project at a major global bank
-- 🌱 Currently learning with - [General Assembly](https://generalassemb.ly/) as a candidate in their Data Science Immersive Flex program (finishing in August 2022)
-- 👀 Interested in - Consumer Loans, Credit Derivatives, and Fixed Income Securities
-- 🙋‍♂️ Ask me about - Applied Statistics and Machine Learning, Comparable and Discounted Cash Flow Valuation, Financial Data Analysis, Dashboarding and Data Visualization, Transactional Pricing Strategies
-- 📫 How to contact me - via LinkedIn (see above)
+- 💼 Work - Arlington, VA-based Principal Specialist Consultant remotely staffed on a data migration project at a major global bank
+- 🎓 Education - 24-week Data Science Immersive boot camp program ending in August 2022 ([Current](https://generalassemb.ly/)) | M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
+- 🙋‍♂️ Ask me about - pricing and valuation strategies for consumer Loans, credit derivatives, and fixed income securities
+- 📫 Contact me - via LinkedIn (see below)
+- ⛱ If I'm offline - you'll either find me on the range working on my long game or out searching for the best sushi restaurant in DC
+
 
 ---
-#### Technologies
+### 💡 Technologies
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
@@ -34,6 +33,16 @@
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
 ![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
+
+---
+### 🤝 Let's Connect!
+
+<p align="left">
+<a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/>
+<a href="https://www.linkedin.com/in/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://public.tableau.com/app/profile/achillesfs"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-E97627?style=flat&logo=Tableau&logoColor=white"/>
+</a>
+</p>
 
 <!---
 achillesfs/achillesfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
