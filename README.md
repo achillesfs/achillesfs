@@ -11,8 +11,7 @@
 
 - ⛱ If I'm offline - you'll either find me on the range working on my long game or out searching for the best sushi restaurant in DC
 
-
-
+<br></br>
 ## <p align="left">💡 Technologies</p>
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
@@ -38,12 +37,11 @@
 ![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
 
-
-
+<br></br>
 ## <p align="left">🤝 Let's Connect!</p>
 
 <p align="left">
-<a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/>
+<a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://public.tableau.com/app/profile/achillesfs"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-E97627?style=flat&logo=Tableau&logoColor=white"/>
 </a>
