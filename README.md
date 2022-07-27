@@ -10,7 +10,7 @@
 - 📫 How to contact me: via LinkedIn (see above)
 
 ---
-### Tech Stack
+#### Technologies
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg-05122A?style=flat&logo=bloomberg)&nbsp;
