@@ -5,7 +5,7 @@
 - 🎓 Education - 24-week Data Science Immersive boot camp program ending in August 2022 ([Current](https://generalassemb.ly/))\
 M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
-- 🙋‍♂️ Ask me about - pricing and valuation strategies for consumer loans, credit derivatives, and fixed income securities
+- 🙋‍♂️ Ask me about - pricing strategy and financial valuation for consumer loans, credit derivatives, and fixed income securities
 
 - 📫 Contact me - via LinkedIn (see below)
 
