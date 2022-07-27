@@ -1,7 +1,7 @@
 ### <p align="left">👋 Hello!  I'm Achilles</p>
 
 ---
-- 💼 Work - Arlington, VA-based Principal Specialist Consultant remotely staffed on a data migration project at a major global bank
+- 💼 Work - Arlington-based Principal Specialist Consultant remotely staffed on a data migration project at a major global bank
 - 🎓 Education - 24-week Data Science Immersive boot camp program ending in August 2022 ([Current](https://generalassemb.ly/)) | M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 - 🙋‍♂️ Ask me about - pricing and valuation strategies for consumer Loans, credit derivatives, and fixed income securities
 - 📫 Contact me - via LinkedIn (_see below_)
