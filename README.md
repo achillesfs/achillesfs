@@ -7,7 +7,7 @@
 
 - 🙋‍♂️ Ask me about - pricing and valuation strategies for consumer Loans, credit derivatives, and fixed income securities
 
-- 📫 Contact me - via LinkedIn (_see below_)
+- 📫 Contact me - via LinkedIn (see below)
 
 - ⛱ If I'm offline - you'll either find me on the range working on my long game or out searching for the best sushi restaurant in DC
 
