@@ -13,7 +13,7 @@
 #### Technologies
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
-![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg-05122A?style=flat&logo=bloomberg)&nbsp;
+![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Git Bash](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
