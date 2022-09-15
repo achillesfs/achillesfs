@@ -1,8 +1,8 @@
 ## <p align="left">👋 Hello!  I'm Achilles</p>
 
-- 💼 Work - Arlington-based Principal Specialist Consultant remotely staffed on a data migration project at a major global bank
+- 💼 Work - Arlington-based data analytics consultant remotely staffed on a consumer lending project at a major US bank
 
-- 🎓 Education - 24-week Data Science Immersive boot camp program ending in August 2022 ([Current](https://generalassemb.ly/))\
+- 🎓 Education - 24-week Data Science Immersive boot camp program completed in August 2022 ([Recent](https://generalassemb.ly/))\
 M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
 - 📈 Currently working on - a project applying predictive modeling and data visualization to analyze and forecast agency mortgage loan performance
