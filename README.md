@@ -30,12 +30,12 @@ M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater
 ![pgAdmin (PostgreSQL)](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![SAS Enterprise Guide](https://img.shields.io/badge/SAS-05122A?style=flat&logo=SAS)&nbsp;
+![Snowflake](https://img.shields.io/badge/Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder_IDE-05122A?style=flat&logo=spyder-ide)&nbsp;
 ![Structured Query Language (SQL)](https://img.shields.io/badge/SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![Tableau Desktop](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Toad Data Point](https://img.shields.io/badge/Toad-05122A?style=flat&logo=quest-toad)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
-![WinSCP](https://img.shields.io/badge/WinSCP-05122A?style=flat&logo=winscp)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
 <br></br>
 ### <p align="left">🤝 Let's Connect!</p>
