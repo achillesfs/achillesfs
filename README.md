@@ -20,6 +20,7 @@ M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater
 ![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Git Bash](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-05122A?style=flat&logo=microsoft-access&logoColor=A4373A)&nbsp;
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
