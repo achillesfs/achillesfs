@@ -1,6 +1,6 @@
 # <p align="left">Project Portfolio</p>
 
-### <p align="left">Index</p>
+## <p align="left">Index</p>
 
 1. Personal Projects
 2. [Tableau Public Dashboards](https://public.tableau.com/app/profile/achillesfs)
