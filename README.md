@@ -5,7 +5,7 @@
 2. [Tableau Public Dashboards](https://public.tableau.com/app/profile/achillesfs)
 3. Collaborations
 4. General Assembly Bootcamp
--
+-----
 
 ## <p align="left">Background</p>
 - 💼 Work - Arlington, VA-based data science and analytics consultant staffed remotely on a consumer lending project at a major US bank
