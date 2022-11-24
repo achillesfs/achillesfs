@@ -1,4 +1,4 @@
-# <p align="left">Achilles - Project Portfolio</p>
+# <p align="left">Project Portfolio</p>
 
 ### <p align="left">Index</p>
 
