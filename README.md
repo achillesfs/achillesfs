@@ -6,7 +6,7 @@
 2. [Tableau Public Dashboards](https://public.tableau.com/app/profile/achillesfs)
 3. Collaborations
 4. General Assembly Bootcamp
---
+---
 
 ### <p align="left">Background</p>
 
