@@ -5,7 +5,7 @@
 1. General Assembly Bootcamp
 2. Personal Projects
 3. Collaborations
-4. Tableu Public Dashboards
+4. [Tableau Public Dashboards](https://public.tableau.com/app/profile/achillesfs)
 
 ### <p align="left">Background</p>
 
