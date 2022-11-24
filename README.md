@@ -1,4 +1,12 @@
-## <p align="left">👋 Hello!  I'm Achilles</p>
+# <p align="left">Achilles - Project Portfolio</p>
+
+# Index
+1. General Assembly Bootcamp
+2. Personal Projects
+3. Collaborations
+4. Tableu Public Dashboards
+
+# <p align="left">Background</p>
 
 - 💼 Work - Arlington-based data analytics consultant staffed remotely on a consumer lending project at a major US bank
 
@@ -12,8 +20,8 @@ M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater
 - 📫 Contact me - via LinkedIn (see below)
 
 - ⛱ If I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
-<br></br>
-### <p align="left">💡 Technologies</p>
+
+# <p align="left">Technologies</p>
 
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
@@ -38,13 +46,12 @@ M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater
 ![Toad Data Point](https://img.shields.io/badge/Toad-05122A?style=flat&logo=quest-toad)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
-<br></br>
-### <p align="left">🤝 Let's Connect!</p>
+
+
+# <p align="left">Let's Connect!</p>
 
 <p align="left">
-<a href="https://github.com/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://public.tableau.com/app/profile/achillesfs"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-E97627?style=flat&logo=Tableau&logoColor=white"/>
+<a href="https://www.linkedin.com/in/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
 
