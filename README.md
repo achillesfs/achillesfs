@@ -7,7 +7,7 @@
 4. General Assembly Bootcamp
 
 
-### <p align="left">Background</p>
+## <p align="left">Background</p>
 - 💼 Work - Arlington, VA-based data science and analytics consultant staffed remotely on a consumer lending project at a major US bank
 
 - 🎓 Education - 24-week Data Science Immersive boot camp program ([Recent](https://generalassemb.ly/)) and M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
@@ -20,7 +20,7 @@
 
 - ⛱ If I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
 
-### <p align="left">Technologies</p>
+## <p align="left">Technologies</p>
 ![@RISK](https://img.shields.io/badge/@RISK-05122A?style=flat&logo=at-risk)&nbsp;
 ![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-05122A?style=flat&logo=bloomberg-terminal)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks)&nbsp;
@@ -45,7 +45,7 @@
 ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello)&nbsp;
 ![Visual Basic for Applications (VBA)](https://img.shields.io/badge/VBA-05122A?style=flat&logo=vba)&nbsp;
 
-### <p align="left">Let's Connect!</p>
+## <p align="left">Let's Connect!</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/achillesfs/"><img src="https://img.shields.io/badge/Achilles%20F.%20S.-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
