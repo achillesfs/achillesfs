@@ -12,13 +12,9 @@
 
 - 🎓 Education - 24-week Data Science Immersive boot camp program ([Recent](https://generalassemb.ly/)) and M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
-- 📈 Currently working on - a project applying predictive modeling and data visualization to analyze and forecast agency mortgage loan performance
-
 - 🙋‍♂️ Ask me about - pricing strategy and financial valuation for consumer loans, credit derivatives, and fixed income securities
 
-- 📫 Contact me - via LinkedIn (see below)
-
-- ⛱ If I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
+- ⛱ When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
 ##
 
 ### <p align="left">Technologies</p>
