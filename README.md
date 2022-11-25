@@ -14,7 +14,7 @@
 
 - 📫 Contact me about - pricing strategy and financial valuation for consumer loan, credit derivative, and fixed income portfolios
 
-- [🏌️‍♂️, 🍣] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
+- [⛳, 🍣] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
 ##
 
 ### <p align="left">Technologies</p>
