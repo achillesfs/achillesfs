@@ -12,9 +12,9 @@
 
 - 🎓 Education - 24-week Data Science Immersive program ([Bootcamp](https://generalassemb.ly/)) and M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
-- 🙋‍♂️ Ask me about - pricing strategy and financial valuation for consumer loans, credit derivatives, and fixed income securities
+- 📫 Contact me about - pricing strategy and financial valuation for consumer loan, credit derivative, and fixed income security portfolios
 
-- ⛱ When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
+- ⛱ [A,B] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
 ##
 
 ### <p align="left">Technologies</p>
