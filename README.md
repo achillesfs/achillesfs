@@ -12,7 +12,7 @@
 
 - 🎓 Education - 24-week Data Science Immersive program ([Bootcamp](https://generalassemb.ly/)) and M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
-- 📫 Contact me about - pricing strategy, performance forecasting, and financial valuation for credit portfolios
+- 📫 Contact me about - pricing strategy, risk analysis, and financial valuation for credit products
 
 - [⛳, 🍣] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in the DC metro area 
 ##
