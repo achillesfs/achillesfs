@@ -8,7 +8,7 @@
 ##
 
 ### <p align="left">Background</p>
-- 💼 Work - Arlington, VA-based data science and analytics consultant staffed remotely on a consumer lending project at a major US bank
+- 💼 Work - Northern Virginia-based data science and analytics consultant staffed remotely on a consumer lending project at a major US bank
 
 - 🎓 Education - 24-week Data Science Immersive program ([Bootcamp](https://generalassemb.ly/)) and M.S. Finance + B.A. International Studies & Business Administration ([Alma Mater](https://www.american.edu/))
 
