@@ -14,7 +14,7 @@
 
 - 📫 Contact me about - pricing strategy, performance forecasting, and financial valuation for credit portfolios
 
-- [⛳, 🍣] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in DC
+- [⛳, 🍣] When I'm offline - you'll most likely find me on the range training up my long game or out searching for the best sushi restaurant in the DC metro area 
 ##
 
 ### <p align="left">Technologies</p>
