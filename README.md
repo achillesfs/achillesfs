@@ -34,6 +34,7 @@
 ![pgAdmin (PostgreSQL)](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![SAS Enterprise Guide](https://img.shields.io/badge/SAS-05122A?style=flat&logo=SAS)&nbsp;
+![ServiceNow](https://img.shields.io/badge/ServiceNow-05122A?style=flat&logo=ServiceNow)&nbsp;
 ![Snowflake](https://img.shields.io/badge/Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder_IDE-05122A?style=flat&logo=spyder-ide)&nbsp;
 ![Structured Query Language (SQL)](https://img.shields.io/badge/SQL-05122A?style=flat&logo=SQL)&nbsp;
